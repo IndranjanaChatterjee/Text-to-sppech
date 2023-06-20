@@ -1,4 +1,4 @@
-# Text-to-sppech
+# Text-to-speech
 Text to speech converter
 
 ## Working
